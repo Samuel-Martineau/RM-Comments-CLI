@@ -1,13 +1,13 @@
 {
   "name": "rmc-cli",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "A CLI to remove comments in JS files",
   "main": "index.js",
   "scripts": {},
   "keywords": [
     "CLI",
     "Remove comments",
-    "Js"
+    "JS"
   ],
   "author": "Samuel Martineau",
   "license": "ISC",
