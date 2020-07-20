@@ -1,8 +1,0 @@
-# Ce dossier est utilisé pour afficher ce projet sur mon site web (https://smartineau.me)
-# This folder is used to display this project on my website (https://smartineau.me)
-titre = "Remove Comments CLI"
-description = "Une application de terminal de commande pour enlever les commentaires de fichiers JS"
-etiquettes = ["js", "npm"]
-url_site_web = "https://www.npmjs.com/package/rmc-cli"
-contenu = "./article.md"
-date_de_creation = 2020-06-20T16:06:42.310Z
