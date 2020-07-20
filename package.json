@@ -28,9 +28,5 @@
     "type": "git",
     "url": "https://github.com/Samuel-Martineau/RM-Comments-CLI.git"
   },
-  "scripts": {
-    "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
-  },
   "snyk": true
 }
