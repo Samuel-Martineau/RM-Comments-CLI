@@ -1,6 +1,6 @@
 {
   "name": "rmc-cli",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "A CLI to remove comments in JS files",
   "main": "index.js",
   "keywords": [
